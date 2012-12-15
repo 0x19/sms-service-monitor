@@ -53,7 +53,7 @@ services = Service(
 - `from_address`       : You need to own [TelAPI Number](https://www.telapi.com/numbers/)
 - `to_address`         : Your mobile phone number in E.164 format e.g. +1 555 555 5555
 
-** Next step is to modify service key '{some_logical_service_key}' and set service host '{some_domain_name}' **
+**Next step is to modify service key `{some_logical_service_key}` and set service host `{some_domain_name}`**
 
 Service host must be or IP address or FQDN ( Fully qualified domain name ). 
 
